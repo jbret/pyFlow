@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import time, sys
 
-# step 3
+# step 4, In 7
 
 def linearconv(nx):
     Lx = 2.
